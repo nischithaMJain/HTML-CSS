@@ -1,5 +1,5 @@
 import { useState } from "react"
-
+import './App.css'
 const img1 = `${process.env.PUBLIC_URL}\designer3.jpeg`;
 const img2 = `${process.env.PUBLIC_URL}\designer4.jpeg`;
 const img3 = `${process.env.PUBLIC_URL}\designer5.jpeg`;
